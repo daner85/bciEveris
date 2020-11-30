@@ -1,4 +1,4 @@
-# userGL
+# user
 
 Descargar el proyecto
 
